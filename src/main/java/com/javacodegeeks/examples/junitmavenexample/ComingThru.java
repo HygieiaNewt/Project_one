@@ -8,7 +8,7 @@ class A { }
  sifter(aa);
  sifter(ba);
  sifter(7);
- System.out.println(s);
+ System.out.println("s is=== "+s);
  }
  static void sifter(A[]... a2) { s += "1"; }
  static void sifter(B[]... b1) { s += "2"; }
